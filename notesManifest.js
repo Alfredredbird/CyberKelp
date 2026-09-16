@@ -38,6 +38,14 @@ const NOTES = [
     folder: "Enumaration/Tools"
   },
   {
+    id: "gobuster-enum",
+    title: "Gobuster",
+    wikiName: "Gobuster",
+    path: "Enumaration/Directories/Gobuster.md",
+    folder: "Enumaration/Directories"
+  },
+  // osint
+  {
     id: "social-media-osint",
     title: "Social Media OSINT",
     wikiName: "Social Media OSINT",
@@ -306,7 +314,36 @@ const NOTES = [
     wikiName: "Volatility",
     path: "Volatility/Volatility.md",
     folder: "Volatility"
-  }
+  },
+  // web hacking
+   {
+    id: "webhacking",
+    title: "Web Hacking",
+    wikiName: "Web Hacking",
+    path: "Web Hacking/Web Hacking.md",
+    folder: "Web Hacking"
+  },
+  {
+    id: "dirbuster",
+    title: "Dirbuster",
+    wikiName: "Dirbuster",
+    path: "Web Hacking/Dirbuster.md",
+    folder: "Web Hacking"
+  },
+  {
+    id: "gobuster",
+    title: "Gobuster",
+    wikiName: "Gobuster",
+    path: "Web Hacking/Gobuster.md",
+    folder: "Web Hacking"
+  },
+  {
+    id: "ffuf",
+    title: "FFuF",
+    wikiName: "FFuF",
+    path: "Web Hacking/FFuF.md",
+    folder: "Web Hacking"
+  },
 ];
 
 // Folder tree builder (unchanged)

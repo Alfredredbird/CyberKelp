@@ -47,3 +47,15 @@ See the manual page here [[Tookie-OSINT]].
 ## TheHarvester
 A popular too for scraping search engines for emails.
 See [[TheHarvester]] for more.
+
+# Web Hacking
+
+## Gobuster
+A popular tool for scanning a site for hidden files and subfolders.
+See [[Gobuster]] for more.
+## Dirbuster
+A popular tool for scanning a site for hidden files and subfolders.
+See [[Dirbuster]] for more.
+## FFuF
+A popular tool for scanning a site for hidden files, subfolders and subdomains.
+See [[FFuF]] for more.
